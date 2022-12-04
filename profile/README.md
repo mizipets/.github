@@ -1,4 +1,4 @@
-# Mizipets project
+# Mizipet
 A app for animal well being
 
 ## Authors
