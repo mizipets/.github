@@ -1,5 +1,5 @@
 # Mizipet
-A app for animal well being
+A mobile application for animal well being
 
 ## Authors
 * Julien Da Corte
