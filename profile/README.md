@@ -3,6 +3,7 @@ A mobile application for animal well being
 
 ## Authors
 * Julien Da Corte
+* Maxime d'Harboullé
 * Latif Sagna
 
 <!--
